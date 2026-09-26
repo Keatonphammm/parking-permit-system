@@ -81,7 +81,7 @@ public class Permit
 		{
 			if (permitDuration.equalsIgnoreCase("fall"))
 				baseCost = STU_RES_FALL;
-			else if (permitDuration.equalsIgnoreCase("sping"))
+			else if (permitDuration.equalsIgnoreCase("spring"))
 				baseCost = STU_RES_SPRING;
 			else if (permitDuration.equalsIgnoreCase("summer"))
 				baseCost = STU_RES_SUMMER;
